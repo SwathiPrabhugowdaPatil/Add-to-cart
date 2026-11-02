@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Homepage Screenshot
 🚀 Build a Complete Shopping Cart in React JS | Add to Cart Tutorial for Beginners in 30 Minutes
 Overview
@@ -62,3 +63,7 @@ Real-time UI updates based on state changes
 👨‍💻 Author
 Frontend Mastery
 GitHub: frontend-mastery12
+=======
+# Add-to-cart
+Product listing with image, name, price, and an Add to Cart button.
+>>>>>>> b1c220f2b32e755c0d1a09744810427b07f270b2
