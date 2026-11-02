@@ -2,11 +2,16 @@
 
 
 **
-🚀 Build a Complete Shopping Cart in React JS | Add to Cart Tutorial for Beginners in 30 Minutes
+🚀** Build a Complete Shopping Cart in React JS | Add to Cart Tutorial for Beginners in 30 Minutes**
+
+
 Overview**
+
+
 Learn to build a complete shopping cart with add to cart functionality using React JS, Context API, and Tailwind CSS. This beginner-friendly tutorial covers increment/decrement features, state management, and responsive design—all in just 30 minutes!
 
 Key Features
+
 Add to Cart functionality with real-time updates
 
 Increment / Decrement quantity controls
@@ -40,6 +45,8 @@ React Context API with useReducer for state management
 React Router for navigation without page reload
 
 Technologies Used
+
+
 React JS – Core library for building the interactive UI.
 JavaScript (ES6) – For functionality, state management, and component logic.
 React Router DOM – For seamless navigation between pages without reload.
@@ -56,6 +63,7 @@ Modern folder structure and project organization
 Responsive design with Tailwind CSS
 Form handling and event management
 Real-time UI updates based on state changes
+
 📽 Watch the Tutorial
 🎥 YouTube: https://youtu.be/-jWYPJhd8lA
 
